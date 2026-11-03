@@ -13,8 +13,8 @@ on:
       - "Dockerfile"
 
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository }}/dashboard-app
-
+  IMAGE_NAME: ghcr.io/lucasfigueiredo6/cloudwork-uj/dashboard-app
+  
 jobs:
   test:
     name: Testes e lint
