@@ -1,5 +1,7 @@
 # Pipeline DevOps — Dashboard + Aiven.io (100% navegador, sem instalação local)
 
+https://cloudwork-uj.onrender.com/
+
 Laboratório completo: um dashboard Flask que mostra métricas de acesso,
 com dados persistidos em um **PostgreSQL gerenciado pela Aiven.io**, e um
 pipeline de CI/CD em **GitHub Actions** que:
